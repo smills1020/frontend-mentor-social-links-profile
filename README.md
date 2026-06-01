@@ -4,7 +4,7 @@ This is a solution to the [Social Links Profile challenge on Frontend Mentor](ht
 
 ### Screenshot
 
-![Screenshot of solution](/images/frontend-mentor-social-links-profile.png)
+![Screenshot of solution](./images/frontend-mentor-social-links-profile.png)
 
 ### Links
 
